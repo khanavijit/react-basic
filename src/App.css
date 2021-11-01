@@ -1,0 +1,25 @@
+.app{
+  min-height: 100vh;
+  background-color: aliceblue;
+  display: grid;
+  justify-content: space-around;
+  align-items: center;
+  grid-template-columns: auto auto auto auto auto auto auto;
+}
+
+.tweet{
+
+  background-color: rgb(168, 202, 231);
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 5px;
+  color: azure;
+  font-size: small;
+  min-height: 200px;
+  min-width: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  
+
+}
